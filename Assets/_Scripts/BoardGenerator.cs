@@ -15,10 +15,10 @@ public class BoardGenerator : MonoBehaviour
         cells = new GameObject[3,3];
     }
 
-    private void Start()
-    {
-        GenerateCells();
-    }
+    //private void Start()
+    //{
+    //    GenerateCells();
+    //}
 
     public void GenerateCells()
     {

@@ -45,5 +45,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cellPrefab: {fileID: 4132112584979574405, guid: 079c005225b4517418b81fd495d128e7, type: 3}
-  horizontalBtnSpacing: 1.05
-  verticalBtnSpacing: -1.05
+  horizontalCellSpacing: 1.05
+  verticalCellSpacing: -1.05
